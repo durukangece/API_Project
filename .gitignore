@@ -1,0 +1,7 @@
+.conda
+.env
+.vscode
+
+# configureations
+config.py
+__pycache__
